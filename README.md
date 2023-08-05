@@ -38,8 +38,3 @@ Techonologies | Description                 | Tools
  ![Testing](https://img.shields.io/badge/Testing-20232A?style=for-the-badge) | test    | ![Jest](https://img.shields.io/badge/-jest-20232A?style=for-the-badge&logo=jest&logoColor=brown) ![postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman) ![eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
 ![Currently learning](https://img.shields.io/badge/Currently--learning-20232A?style=for-the-badge)|  no pain no gain | ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript) ![React Native](https://img.shields.io/badge/Native-20232A?style=for-the-badge&logo=react) ![Solidity](https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=Solidity)
 ![Future learning](https://img.shields.io/badge/Future--learning-20232A?style=for-the-badge)| no pain no gain 2x | ![Go](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go) ![Rust](https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust)
-
-<br />
-<br />
-
-
