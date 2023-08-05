@@ -18,7 +18,7 @@
   
 ---
 
-   <a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/](https://www.linkedin.com/in/islam-alaev-292859262/">
+   <a target="_blank" href="https://www.linkedin.com/in/islam-alaev-292859262/">
      <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
   </a>&nbsp;&nbsp;&nbsp;
   
